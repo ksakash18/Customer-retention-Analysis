@@ -34,6 +34,9 @@ This is the main file contains power bi dashboard of customer retention
 details of the analysis including SQL queries in depth.
 
 ## Data Visualization and Analysis using Power BI
+![11 02 2025_22 39 54_REC](https://github.com/user-attachments/assets/4655b4fe-648e-4c53-9a44-1c4496c992f9)
+![11 02 2025_22 40 35_REC](https://github.com/user-attachments/assets/4def51ad-b7b4-409d-a454-1f4e5b2a059f)
+
 
 Total calls = COUNT(Table1[Call Id])
 Calls Answered = CALCULATE(COUNTROWS(Table1),Table1[Answered (Y/N)]="Y")
