@@ -11,8 +11,9 @@ Customers in the telecom industry are hard-earned:Telecom company don’t want t
 •	Explain findings from dashboard and suggest ways to avoid churning in future.
 •	Create a dashboard for the call centre manager about customer retention.
 
-## Inputs
-Refer 02 Churn-Dataset.xlsx
+## Explanation of project files
+### 02 Churn-Dataset.xlsx
+Dataset contains details about the customers.Following details are included in the excel file:
 •	Customers who left within the last month.
 •	Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 •	Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical.
