@@ -28,6 +28,11 @@ Dataset contains details about the customers.Following details are included in t
 o	higher number of tickets
 o	shorter tenure
 
+### customer retention dashboard.pbix
+This is the main file contains power bi dashboard of customer retention
+### customer retention.pdf
+details of the analysis including SQL queries in depth.
+
 ## Data Visualization and Analysis using Power BI
 
 Total calls = COUNT(Table1[Call Id])
